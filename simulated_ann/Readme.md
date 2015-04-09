@@ -3,17 +3,17 @@ Simulated Annealing
 
 This is the implementation of Simulated Annealing optimization algorithm.
 
-####Dependencies
+###Dependencies
   * Python 3
   * Numpy
 
 
-####Usage
+###Usage
   ```
   simulated_ann.py -k <kA> -i <maxIteration> --x1 <x1> --x2 <x2>
   ```
 
-####Output
+###Output
   This will execute the algorithm with given parameters for 30 times and then
   calculates its mean and std, prints all with input parameters.
 
