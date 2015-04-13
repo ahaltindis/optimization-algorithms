@@ -34,3 +34,9 @@ This is the implementation of Simulated Annealing optimization algorithm.
   std: 0.000126314166481
   ```
 
+###Resources
+  * [The Simulated Annealing Algorithm][web1]
+  * [Simulated Annealing Tutorial][web2]
+
+  [web1]:http://katrinaeg.com/simulated-annealing.html
+  [web2]:http://apmonitor.com/me575/index.php/Main/SimulatedAnnealing
